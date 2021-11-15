@@ -1,8 +1,8 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['Isi Link Groub kamu']
-global.channelYT = ['https://www.youtube.com/results?search_query=makasarcyberghost'] 
-global.owner = ['6285654792270']// Put your number here
-global.mods = ['6285654792270'] // Want some help?
+global.linkGC = ['https://chat.whatsapp.com/LTL9J5K0dxp65WspruIQuW']
+global.channelYT = ['https://www.youtube.com/results?search_query=ZansLord'] 
+global.owner = ['6285869074622']// Put your number here
+global.mods = ['6285869074622'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -31,8 +31,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'MilkitaBotz'
-global.author = 'SUBSCRIBE MakasarCyberGhost'
+global.packname = 'BlackBotz'
+global.author = 'Nope'
 
 global.multiplier = 72366367263636 // The higher, The harder levelup
 
