@@ -114,7 +114,7 @@ const freply = {key:{ fromMe:false, participant: `0@s.whatsapp.net`, ...(m.chat 
 
 						},
 
-						"businessOwnerJid": "6287834993722@s.whatsapp.net"}}}    
+						"businessOwnerJid": "6285869074622l@s.whatsapp.net"}}}    
 
 let package = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json')))
 
@@ -278,7 +278,7 @@ let tags = {
 
     let before = conn.menu.before || `
 Hello %name
-Im *MilkitaBotz* And You Use 
+Im *BlackBotz* And You Use 
 Prefix *#*
 
 ❏ Ｉｎｆｏ Ｂｏｔ
@@ -394,7 +394,7 @@ Prefix *#*
 
     externalAdReply: {
 
-                    title: `CREATED BY MilkitaBotz 🅥`,
+                    title: `CREATED BY BlackBotz 🅥`,
 
                     body: `${ucapanWaktu} ${name}`,
 
